@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>
+            beer
+        </title>
+    </head>
+    <body>
+        <b>bold</b>
+        <p>
+            a<sup>b</sup>
+        </p>
+        <p>price is<del>100</del>60</p>
+        <p title="gjfkhgfhg">
+            hlooooo
+        </p>
+        <img src="ac.jpg"alt="abc">
+       hello!! this is a subpage<br>
+       pl click this link to go to home page
+       <a href="a.html">
+           <h1>
+               home
+           </h1>
+       </a>
+    </body>  
+    </html>
